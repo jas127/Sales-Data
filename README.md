@@ -41,6 +41,6 @@ This document outlines the steps taken to clean and preprocess the dataset `sale
 
 9. **Summary**:
    - The original uncleaned dataset information is printed.
-   - The cleaned dataset information is printed for final review.
+   - The cleaned dataset information is printed for final review and exproted as `sales_data_cleaned.csv`
 
 These steps ensure that the dataset is clean, consistent, and ready for further analysis or modeling.
